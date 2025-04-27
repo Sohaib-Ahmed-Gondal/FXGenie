@@ -1,0 +1,15 @@
+The /FXGenie/FXGenie/frontend/public directory is intended to contain static assets for the React frontend, including the index.html file. Below are the contents for the index.html file that should be placed in the /FXGenie/FXGenie/frontend/public directory:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FXGenie</title>
+    <link rel="stylesheet" href="%PUBLIC_URL%/styles.css">
+</head>
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+</body>
+</html>
